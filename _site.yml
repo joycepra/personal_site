@@ -1,0 +1,22 @@
+name: "Joyce R Prado"
+output_dir: "."
+navbar:
+  title: <font size="8">Joyce R Prado</font>
+  left:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/joycepra
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/joycepra_
+  right:
+    - text: "Research"
+      href: res.html
+    - text: "Publications"
+      href: pubs.html
+    - text: "Photos"
+      href: fieldwork.html
+output:
+  html_document:
+    theme: paper
+    css: style.css
