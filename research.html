@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 64px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h2 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h3 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h4 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h5 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.section h6 {
+  padding-top: 69px;
+  margin-top: -69px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><font size="7">Joyce R Prado</font></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://github.com/joycepra">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/joycepra_">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="pubs.html">Publications</a>
+</li>
+<li>
+  <a href="Sci_life.html">Scientist Life</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><img src="files/barco2.png" style="width:100%; align="center"></p>
+<p><br></p>
+<div id="research" class="section level1">
+<h1>Research</h1>
+<p><br> <img src="files/rato.JPG" style="width:40%; margin-right: 30px" align="left"></p>
+<p><br></p>
+<font size="5">
+<div style="text-align: justify">
+My work is related to understanding how abiotic and biotic factors interact and shape the patterns of genetic, morphological and ecological variation in small mammals
+</div>
+<p></font></p>
+<p><br> <br><br></p>
+<font size="6">
+<div style="text-align: center">
+POSTDOCTORAL RESEARCH
+</div>
+<p></font></p>
+<font size="5">
+<div style="text-align: justify">
+The effect of climate change on the pattern of distribution, demography and genetic structure in neotropical semi-aquatic rodents.
+</div>
+<p></font></p>
+<p><img src="files/holo2.png" style="width:35%; margin-left: 30px" align="right"></p>
+<font size="3">
+<div style="text-align: justify">
+Similar ecological restrictions imposed by wetlands in South American biomes structure the genetic and demographic variation between taxa in a similar way. However, due to current and historical differences in these areas, species may reflect specific variation patterns for each biome they inhabit. Alternatively, taxa with shared natural histories may exhibit concordant patterns of variation, despite different biomes. To assess which of these hypotheses best explains the genetic structure and demographic history in three species of the genus <em>Holochilus</em>, we used New Generation Sequencing (ddRadSeq), along with analytical techniques that provide spatially explicit information about how genomic variation is structured across the landscape. Results are coming soon!!!
+</div>
+<p></font></p>
+<p><br></p>
+<font size="6">
+<div style="text-align: center">
+PhD. RESEARCH
+</div>
+<p></font></p>
+<p><font size="5">Comparative Phylogeography</font></p>
+<font size="4">
+<div style="text-align: center">
+<strong>Similar but different: Revealing the relative roles of species‐traits versus biome properties structuring genetic variation in South American marsh rats (Prado et al., 2019)</strong>
+</div>
+<p></font></p>
+<p><br></p>
+<p><img src="files/fig_proc.pdf" style="width:55%; margin-right: 15px" align="left"></p>
+<font size="3">
+<div style="text-align: justify">
+My PhD dissertation had already demonstrated how the genetic variation in Holochilus species was structured throughout geography, revealing that there is a significant association between genetic variation and geography for all species. Similarity in the strength of the association suggests connectivity patterns dictated by shared species‐traits predominate at the biome scale. However, substantial amounts of genetic variation are not explained by geography. Focusing on this portion of the variance, we demonstrate a significant quantitative association between genetic variation and the environmental space of a biome, and a qualitative association with varying regional stability. Specifically, historically stable areas are correlated with local levels of geographic structuring, suggesting that local biome‐specific histories affect population isolation/connectivity.
+</div>
+<p></font></p>
+<p><br></p>
+<p><font size="5">Species Delimitation</font></p>
+<font size="4">
+<div style="text-align: center">
+<strong>New species boundaries and diversification history of marsh rat taxa clarifies historical connections among ecologically and geographically distinct wetlands of South America (Prado et al., 2020)</strong>
+</div>
+<p></font></p>
+<p><br></p>
+<font size="3">
+<div style="text-align: justify">
+Taxa with broad geographic ranges that occur in different biomes and exhibit plastic morphological traits and/or adaptations to particular habitats make inferences about species boundaries especially challenging. However, technological and conceptual advances in the generation and analysis of genomic data have advanced the description of biodiversity. In this study (Prado et al., 2020) we address the outstanding questions about the delimitation of species in the genus <em>Holochilus</em>, a rodent with morphological specializations to wetland habitats, distributed through almost all the South America continent using genome‐wide SNP and morphometric data. Specifically, we apply a Bayesian model‐based species delimitation that revealed significant re-arrangements of species boundaries based on consideration of both morphometric and genomic data alone, or in combination. With these shifts in species boundaries, our results provide an insightful framework for considering putative dispersal corridors and debate surrounding their role in connecting disjunct South American biomes. Because of the ecological constraints of the marsh rats, and with the proposed taxonomic re-arrangements, the significance of our findings extends beyond systematics and suggests how diversification might be associated with past ecological/environmental linkages between disparate biomes during the Pleistocene.
+</div>
+<p></font></p>
+<p><br> <img src="files/Graphical_abstract.tif" style="width:100%; align="center"></p>
+<p><br></p>
+<p><font size="5">Biogeography</font></p>
+<font size="4">
+<div style="text-align: center">
+<strong>Open vegetation dynamics and its role in structuring the diversity of sigmodontine rodents (Prado et al., in prep)</strong>
+</div>
+<p></font></p>
+<p><br></p>
+<p><img src="files/biogeo.png" style="width:65%; margin-right: 15px" align="left"></p>
+<font size="3">
+<div style="text-align: justify">
+Identifying mechanisms that promote lineage diversification is essential to understand biogeographic patterns. In this study we investigate the biogeographic processes related to the extant genera of the Oryzomyini clade D. This clade includes the most comprehensive generic diversity of the tribe, with lineages occupying distinct phytophysiognomies. The current distributional pattern and the presence of tetralophodonts genera in this clade suggest that there is a close relationship between these genera and the evolution of South Amercia open areas. Using a genomic dataset we construct a time calibrated tree, and estimate the range evolution through statistical model testing among different biogeographic models. The origin of clade D occurred approximately 3.5 Ma, and most of diversification events occurred during Pliocene. Geographic range estimates suggest that the ancestors of this clade were open area inhabitants of the Cis-Andean part, and the retraction and expantion of the open enviroments, together with the formation of Isthmus of Panama, favored the dispersion and diversification on this clade.This study is still in prep!!!
+</div>
+<p></font></p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
