@@ -1,6 +1,7 @@
 ---
-title: "Welcome"
+title: "Welcome to my world!!!!"
 ---
+<br>
 
 <img src="files/vitoria-regia.png" style="width:100%" align="center">
 
@@ -15,7 +16,7 @@ history in taxa with shared life history traits.</div></font>
 
 <font size="3"><div style="text-align: justify">I'm a postdoctoral fellow at Universidade de São Paulo (USP), where I also did my PhD (2017) and my Msc (2012), advised by Alexandre Percequillo.
 During my PhD I was a visitor researcher at University of Michigan (UMICH), spending sometime in [Lacey Knowles' lab](https://sites.lsa.umich.edu/knowles-lab/).
-After my PhD I was a postdoctoral fellow at Universidade Federal do Espírito Santo (UFES) supervised by Leonora P. Costa.</div></font>
+Right after my PhD I was a postdoctoral fellow at Universidade Federal do Espírito Santo (UFES) supervised by Leonora P. Costa.</div></font>
 <br><br>
 
 
