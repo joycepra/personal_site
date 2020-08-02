@@ -1,6 +1,3 @@
----
-
----
 <img src="files/H_brasiliensis.png" style="width:100%;height:50%" align="center">
 
 ##Publications
@@ -48,3 +45,16 @@
 #####2. **PRADO, J.R.**; PERCEQUILLO, A.R. 2013.  On the geographic distribution of the genera of Tribe Oryzomyini on South America, with some comments on the patterns of diversity and Reig´s Areas of Original Differentiation. _Arquivos de Zoologia_, v. 44, p. 1-120.
 #####
 #####1. **PRADO, J.R.**; PERCEQUILLO, A.R. 2011. Ontogenetic and sexual variation in cranial characters of Aegialomys Xanthaeolus (Thomas, 1894)(Cricetidae: Sigmodontinae) from Ecuador and Peru. _Papéis Avulsos de Zoologia_, v. 51, p. 155-177.
+
+
+###Book and Book Chapter 
+#####
+#####5. FRAGA, C.N.; Peixoto, A.L.; Leite, Y.L.R; **PRADO, J.R.**; et al. Lista da fauna e flora ameaçadas de extinção no estado do Espírito Santo. In: Claudio Nicoletti de Fraga; Mileide de Holanda Formigoni; Flávia Guimarães Chaves. (Org.). Fauna e flora ameaçadas de extinção no estado do Espírito Santo. 1ed., 2019, p. 1-432.
+#####
+#####4. PARDINAS, U.F.J.; RUELAS, D.; BRITO, J.; BRADLEY, L.C.; BRADLEY, R.D.; GARZA, N.O.; KRYTUFEK, B.; COOK, J.A.; SOTO, E.C.; SALAZAR-BRAVO, J.; SHENBROT, G.I.; CHIQUITO, E.A.; PERCEQUILLO, A.R.; **PRADO, J.R.**; HASLAUER, R.; PATTON, J.L.; LEON-PANIAGUA, L. Family CRICETIDAE (TRUE HAMSTERS, VOLES, LEMMINGS AND NEW WORLD RATS AND MICE). In: Wilson, D.E., Lacher, T.E., Jr & Mittermeier, R.A.. (Org.). Handbook of the Mammals of the World. IIed.Barcelona: Lynx Edicions, 2017, v. 7, p. 204-535.
+#####
+#####3. PERCEQUILLO, A.R.; ABREU JUNIOR, E.F.; BOVENDORP, R.S.; Brennand, P.G.G.; CHIQUITO, E.A.; CORREA, L.S.; GODOY, L.P.; LIBARDI, G.S; **PRADO, J.R.**; ROTH, P.R.O.; SALLES, V.L. Roedores sigmodontíneos da Amazônia brasileira: composição, distribuição geográfica e diagnoses. In: Mendes-Oliveira, Ana Cristina; Miranda, Cleuton Lima. (Org.). Pequenos Mamíferos Não-voadores da Amazônia Brasileira. 1ed., 2015, p. 1-336.
+#####
+#####2. ABREU JUNIOR, E.F.; BRENNAND, P.G.G.; CHIQUITO, E.A.; JORGE-RODRIGUES, C.R.; LIBARDI, G.S; **PRADO, J.R.**; PERCEQUILLO, A.R. Dimorfismo Sexual na Tribo Oryzomyini. In: Thales R.O. de Freitas; Emerson, M. Vieira. (Org.). Mamíferos do Brasil: genética, sistemática, ecologia e conservação. 1ed.Rio de Janeiro: Sociedade Brasileira de Mastozoologia, 2012, v. 2, p. 115-134.
+#####
+#####1. PERCEQUILLO, A.R.; SIMÕES, D.R; ALTEFF, E.F.; ABREU JUNIOR, E.F.; LIBARDI, G.S; GOMES, I.B.S.R.; **PRADO, J.R.**; CORAGEM, J.T.; SILVEIRA, L.F.; STORTI, L.F.; TURCI, L.C.B.; BERNARDES, M.L.; BRENNAND, P.G.G.; BOVENDORP, R.S. UHE Santo Antonio: Guia das Especies de fauna resgatadas. 1. ed. São Paulo: Scriba Comunicacao corpporativa, 2011. v.1., 328p.
