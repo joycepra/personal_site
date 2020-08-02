@@ -1,7 +1,7 @@
 name: "Joyce R Prado"
 output_dir: "."
 navbar:
-  title: <font size="8">Joyce R Prado</font>
+  title: <font size="7">Joyce R Prado</font>
   left:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -11,11 +11,11 @@ navbar:
       href: https://twitter.com/joycepra_
   right:
     - text: "Research"
-      href: res.html
+      href: research.html
     - text: "Publications"
       href: pubs.html
-    - text: "Photos"
-      href: fieldwork.html
+    - text: "Scientist Life"
+      href: Sci_life.html
 output:
   html_document:
     theme: paper
