@@ -3,7 +3,7 @@ title: "Welcome to my world!!!!"
 ---
 <br>
 
-<img src="files/vitoria-regia.png" style="width:100%" align="center">
+<img src="files/vitoria-regia.jpg" style="width:100%" align="center">
 
 <img src="files/EU.jpeg" style="width:30%; border:5px solid; margin-right: 20px" align="left">
 
