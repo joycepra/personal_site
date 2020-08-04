@@ -4,4 +4,4 @@
 
 <br><br>
 
-<img src="files/sci_life.pdf" style="width:100%" align="center">
+<img src="files/sci_life.png" style="width:100%" align="center">
