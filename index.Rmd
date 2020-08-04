@@ -25,7 +25,7 @@ Right after my PhD I was a postdoctoral fellow at Universidade Federal do Espír
 <br><br>
 
 <p align="center">
-  <img src="files/usp.pdf" width="15%"  hspace="20" />
+  <img src="files/usp.png" width="15%"  hspace="20" />
   <img src="files/UMICH.png" width="10%"  hspace="20"/> 
   <img src="files/ufes.png" width="15%" hspace="20" />
 </p>
