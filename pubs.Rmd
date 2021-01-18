@@ -10,9 +10,9 @@
 
 ###In review
 
-#####**PRADO, J.R.**; RUBI, T.; BAUMGARTNER, J.; HOFFMAN S.M.; DANTZER. B.; KNOWLES, L.L. (in review) Postglacial colonization in the Great Lakes Region by the white-footed mouse (Peromyscus leucopus): conflicts between genomic and field data. _Journal of Mammalogy_.
+#####**PRADO, J.R.**; RUBI, T.; BAUMGARTNER, J.; HOFFMAN S.M.; DANTZER. B.; KNOWLES, L.L. (in review) Postglacial colonization in the Great Lakes Region by the white-footed mouse (_Peromyscus leucopus_): conflicts between genomic and field data. _Journal of Mammalogy_.
 #####
-#####**PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (in review) A new species of South America marsh rat (Holochilus, Cricetidae) from northeastern Brazil. _Journal of Mammalogy_.
+#####**PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (in review) A new species of South America marsh rat (_Holochilus_, Cricetidae) from northeastern Brazil. _Journal of Mammalogy_.
 #####
 #####DALAPICOLLA, J.; ABREU-JÚNIOR, E. F.; **PRADO, J.R.**; CHIQUITO, E.A.; ROTH, P.R.O.; BRENNAND, P.G.G; PAVAN, A.C.; PEREIRA, A.; MENDES, F.; ALVAREZ, M.; RIOS, E.; CASSANO, C.; MIRETZKI, M.; VÉLEZ, F.; SEVÁ, A.; PERCEQUILLO, A. R.; BOVENDORP, R.S. (in review) Areas of endemism of small mammals are underprotected in the Atlantic Forest. _Journal of Mammalogy_.
 #####
@@ -26,9 +26,9 @@
 #####
 #####12. TETA, P.; D´ELIA, G.; JAYAT, J.P.; GONCALVES, P.R.; LIBARDI, G.S.; OLIVEIRA, J.A.; MORATELLI, R.; PERCEQUILLO, A.R.; **PRADO, J.R.**; ORTIZ, P.E.; HURTADO, N.; SCHIAFFINI, M.I.; Abreu, E.F.J; CHIQUITO, E.A.; GIMENEZ, A.L.; TORRES, J.C. On the distinction and availability of the new taxa proposed by Agnolin et al. 2019. _Mastozoología Neotropical_, 27, p. 1-17.
 #####
-#####11. PIRANI, R.M.; PELOSO, P.L.V.; **PRADO, J.R.**; POLO, E; KNOWLES, L.L.; RON, S.R.; RODRIGUES, M.T.; STURARO, M.J.; WERNECK, F.P. 2020. Diversification History of Clown Tree Frogs in Neotropical Rainforests (Anura, Hylidae, Dendropsophus leucophyllatus group). _Molecular Phylogenetics and Evolution_, v. 150, p. 106877.
+#####11. PIRANI, R.M.; PELOSO, P.L.V.; **PRADO, J.R.**; POLO, E; KNOWLES, L.L.; RON, S.R.; RODRIGUES, M.T.; STURARO, M.J.; WERNECK, F.P. 2020. Diversification History of Clown Tree Frogs in Neotropical Rainforests (Anura, Hylidae, _Dendropsophus leucophyllatus_ group). _Molecular Phylogenetics and Evolution_, v. 150, p. 106877.
 #####
-#####10. **PRADO, J.R.**; PERCEQUILLO, A.R. 2019. Aegialomys galapagoensis (Rodentia: Cricetidae). _Mammalian Species_, v. 51, p. 92-99.
+#####10. **PRADO, J.R.**; PERCEQUILLO, A.R. 2019. _Aegialomys galapagoensis_ (Rodentia: Cricetidae). _Mammalian Species_, v. 51, p. 92-99.
 #####
 #####9. **PRADO, J.R.**; MENDONCA, G.C.; CHIQUITO, E.A. 2019. Topics in Oryzomyini rodents (Cricetidae, Sigmodontinae): natural history, diversity and the contribution of Brazilian researchers. _Boletim da Sociedade Brasileira de Mastozoologia_, v. esp, p. 74-85.
 #####
@@ -36,17 +36,17 @@
 #####
 #####7. RESENDE-MOREIRA, L.C., KNOWLES, L.L., THOMAZ, A.T., **PRADO, J.R.**, SOUTO, A.P., LEMOS-FILHO, J.P., LOVATO, M.B. (2019) Evolving in isolation: genetic tests reject recent connections of Amazonian savannas with the central Cerrado. _Journal of Biogeography_, v. 46(1), p. 196-211. 
 #####
-#####6. **PRADO, J.R.**; PERCEQUILLO, A. R. 2018. Systematic studies of the genus Aegialomys Weksler, et al. 2006 (Rodentia: Cricetidae: Sigmodontinae): geographic variation, species delimitation, and biogeography. _Journal of Mammalian Evolution_, v. 25, p. 71–118.
+#####6. **PRADO, J.R.**; PERCEQUILLO, A. R. 2018. Systematic studies of the genus _Aegialomys_ Weksler, et al. 2006 (Rodentia: Cricetidae: Sigmodontinae): geographic variation, species delimitation, and biogeography. _Journal of Mammalian Evolution_, v. 25, p. 71–118.
 #####
 #####5. HE, Q., **PRADO, J.R.**; KNOWLES, L.L. 2017. Inferring the geographic origin of a range expansion: latitudinal and longitudinal coordinates inferred from genomic data in an ABC framework with the program X-ORIGIN. _Molecular Ecology_, v. 26, p. 6908–6920.
 #####
-#####4. **PRADO, J.R.**; PERCEQUILLO, A.R. 2016. Systematic studies of the genus Aegialomys Weksler, Percequillo and Voss, 2006 (Rodentia: Cricetidae: Sigmodontinae): Annotated catalogue of the types of the species-group taxa. _Zootaxa_, v. 4144, p. 477-498.
+#####4. **PRADO, J.R.**; PERCEQUILLO, A.R. 2016. Systematic studies of the genus _Aegialomys_ Weksler, Percequillo and Voss, 2006 (Rodentia: Cricetidae: Sigmodontinae): Annotated catalogue of the types of the species-group taxa. _Zootaxa_, v. 4144, p. 477-498.
 #####
 #####3. **PRADO, J.R.**; BRENNAND, P.G.G.; GODOY, L.P.; LIBARDI, G.S; Abreu, E.F.J; ROTH, P.R.O.; CHIQUITO, E.A.; PERCEQUILLO, A.R. 2015. Species richness and areas of endemism of oryzomyine rodents (Cricetidae, Sigmodontinae) in South America: an ndm/vndm approach. _Journal of Biogeography_, v. 42, p. 540-551.
 #####
 #####2. **PRADO, J.R.**; PERCEQUILLO, A.R. 2013.  On the geographic distribution of the genera of Tribe Oryzomyini on South America, with some comments on the patterns of diversity and Reig´s Areas of Original Differentiation. _Arquivos de Zoologia_, v. 44, p. 1-120.
 #####
-#####1. **PRADO, J.R.**; PERCEQUILLO, A.R. 2011. Ontogenetic and sexual variation in cranial characters of Aegialomys Xanthaeolus (Thomas, 1894)(Cricetidae: Sigmodontinae) from Ecuador and Peru. _Papéis Avulsos de Zoologia_, v. 51, p. 155-177.
+#####1. **PRADO, J.R.**; PERCEQUILLO, A.R. 2011. Ontogenetic and sexual variation in cranial characters of _Aegialomys Xanthaeolus_ (Thomas, 1894)(Cricetidae: Sigmodontinae) from Ecuador and Peru. _Papéis Avulsos de Zoologia_, v. 51, p. 155-177.
 
 
 ###Book and Book Chapter 
