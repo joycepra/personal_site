@@ -10,9 +10,11 @@
 
 ###In review
 
-#####**PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. A new species of South America marsh rat (Holochilus, Cricetidae) from northeastern Brazil. _Journal of Mammalogy_.
+#####**PRADO, J.R.**; RUBI, T.; BAUMGARTNER, J.; HOFFMAN S.M.; DANTZER. B.; KNOWLES, L.L. (in review) Postglacial colonization in the Great Lakes Region by the white-footed mouse (Peromyscus leucopus): conflicts between genomic and field data. _Journal of Mammalogy_.
 #####
-#####DALAPICOLLA, J.; ABREU-JÚNIOR, E. F.; **PRADO, J.R.**; CHIQUITO, E.A.; ROTH, P.R.O.; BRENNAND, P.G.G; PAVAN, A.C.; PEREIRA, A.; MENDES, F.; ALVAREZ, M.; RIOS, E.; CASSANO, C.; MIRETZKI, M.; VÉLEZ, F.; SEVÁ, A.; PERCEQUILLO, A. R.; BOVENDORP, R.S. (in review) A conservation view of Atlantic forest areas of endemism assessed by diversity of small mammals. _Journal of Mammalogy_.
+#####**PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (in review) A new species of South America marsh rat (Holochilus, Cricetidae) from northeastern Brazil. _Journal of Mammalogy_.
+#####
+#####DALAPICOLLA, J.; ABREU-JÚNIOR, E. F.; **PRADO, J.R.**; CHIQUITO, E.A.; ROTH, P.R.O.; BRENNAND, P.G.G; PAVAN, A.C.; PEREIRA, A.; MENDES, F.; ALVAREZ, M.; RIOS, E.; CASSANO, C.; MIRETZKI, M.; VÉLEZ, F.; SEVÁ, A.; PERCEQUILLO, A. R.; BOVENDORP, R.S. (in review) Areas of endemism of small mammals are underprotected in the Atlantic Forest. _Journal of Mammalogy_.
 #####
 #####PERCEQUILLO, A.R.; **PRADO, J.R.**; ABREU-JÚNIOR, E. F.; DALAPICOLLA, J.; PAVAN, A.C.; CHIQUITO, E.A.; STEPPAN, S.J.; LEMMON, A.R.; LEMMON, E.M.; WILKINSON, M. (in review) Tempo and mode of evolution of Oryzomyine rodents (Rodentia, Cricetidae, Sigmodontinae): a phylogenomic approach. _Molecular Phylogenetics and Evolution_.
 #####
@@ -20,9 +22,9 @@
 
 ###Published
 #####
-#####13. **PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (in press) New species boundaries and diversification history of marsh rat taxa clarifies historical connections among ecologically and geographically distinct wetlands of South America. _Molecular Phylogenetics and Evolution_.
+#####13. **PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (2021) New species boundaries and diversification history of marsh rat taxa clarify historical connections among ecologically and geographically distinct wetlands of South America. _Molecular Phylogenetics and Evolution_, v. 155, 106992.
 #####
-#####12. TETA, P.; D´ELIA, G.; JAYAT, J.P.; GONCALVES, P.R.; LIBARDI, G.S.; OLIVEIRA, J.A.; MORATELLI, R.; PERCEQUILLO, A.R.; **PRADO, J.R.**; ORTIZ, P.E.; HURTADO, N.; SCHIAFFINI, M.I.; Abreu, E.F.J; CHIQUITO, E.A.; GIMENEZ, A.L.; TORRES, J.C. (accepted) On the distinction and availability of the new taxa proposed by Agnolin et al. 2019. _Mastozoología Neotropical_.
+#####12. TETA, P.; D´ELIA, G.; JAYAT, J.P.; GONCALVES, P.R.; LIBARDI, G.S.; OLIVEIRA, J.A.; MORATELLI, R.; PERCEQUILLO, A.R.; **PRADO, J.R.**; ORTIZ, P.E.; HURTADO, N.; SCHIAFFINI, M.I.; Abreu, E.F.J; CHIQUITO, E.A.; GIMENEZ, A.L.; TORRES, J.C. On the distinction and availability of the new taxa proposed by Agnolin et al. 2019. _Mastozoología Neotropical_, 27, p. 1-17.
 #####
 #####11. PIRANI, R.M.; PELOSO, P.L.V.; **PRADO, J.R.**; POLO, E; KNOWLES, L.L.; RON, S.R.; RODRIGUES, M.T.; STURARO, M.J.; WERNECK, F.P. 2020. Diversification History of Clown Tree Frogs in Neotropical Rainforests (Anura, Hylidae, Dendropsophus leucophyllatus group). _Molecular Phylogenetics and Evolution_, v. 150, p. 106877.
 #####
