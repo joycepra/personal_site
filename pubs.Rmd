@@ -9,18 +9,22 @@
 
 
 ###In review
-
+#####
+#####DALAPICOLLA, J.; **PRADO, J.R.**; PERCEQUILLO. A.R.; KNOWLES L.L. (in review) Amazonian forest-types and functional connectivity of its inhabitants: connectivity in sympatric spiny rat species reflects more than the single dimension of forest associations. _Journal of Biogeography_.
+#####
+#####**PRADO, J.R.**; ROCHA, R.G.; BISSOLI-SILVA, H.; MENDES-OLIVEIRA, A.C.; PONTES R.C.L.; MAUÉS, P.C.R.A.; COSTA, L. P. (in review) Is the Tapajós region, in fact, the ugly duckling in conservation priorities among other areas of endemism in the Amazon? _Biodiversity and Conservation_.
+#####
 #####**PRADO, J.R.**; RUBI, T.; BAUMGARTNER, J.; HOFFMAN S.M.; DANTZER. B.; KNOWLES, L.L. (in review) Postglacial colonization in the Great Lakes Region by the white-footed mouse (_Peromyscus leucopus_): conflicts between genomic and field data. _Journal of Mammalogy_.
 #####
 #####**PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (in review) A new species of South America marsh rat (_Holochilus_, Cricetidae) from northeastern Brazil. _Journal of Mammalogy_.
 #####
 #####DALAPICOLLA, J.; ABREU-JÚNIOR, E. F.; **PRADO, J.R.**; CHIQUITO, E.A.; ROTH, P.R.O.; BRENNAND, P.G.G; PAVAN, A.C.; PEREIRA, A.; MENDES, F.; ALVAREZ, M.; RIOS, E.; CASSANO, C.; MIRETZKI, M.; VÉLEZ, F.; SEVÁ, A.; PERCEQUILLO, A. R.; BOVENDORP, R.S. (in review) Areas of endemism of small mammals are underprotected in the Atlantic Forest. _Journal of Mammalogy_.
 #####
-#####PERCEQUILLO, A.R.; **PRADO, J.R.**; ABREU-JÚNIOR, E. F.; DALAPICOLLA, J.; PAVAN, A.C.; CHIQUITO, E.A.; STEPPAN, S.J.; LEMMON, A.R.; LEMMON, E.M.; WILKINSON, M. (in review) Tempo and mode of evolution of Oryzomyine rodents (Rodentia, Cricetidae, Sigmodontinae): a phylogenomic approach. _Molecular Phylogenetics and Evolution_.
-#####
 
 
 ###Published
+#####
+#####14. PERCEQUILLO, A.R.; **PRADO, J.R.**; ABREU-JÚNIOR, E. F.; DALAPICOLLA, J.; PAVAN, A.C.; CHIQUITO, E.A.; STEPPAN, S.J.; LEMMON, A.R.; LEMMON, E.M.; WILKINSON, M. Tempo and mode of evolution of Oryzomyine rodents (Rodentia, Cricetidae, Sigmodontinae): a phylogenomic approach. _Molecular Phylogenetics and Evolution_, v. 159, p. 107120.
 #####
 #####13. **PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (2021) New species boundaries and diversification history of marsh rat taxa clarify historical connections among ecologically and geographically distinct wetlands of South America. _Molecular Phylogenetics and Evolution_, v. 155, 106992.
 #####
