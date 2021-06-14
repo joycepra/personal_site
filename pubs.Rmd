@@ -9,6 +9,7 @@
 
 
 ###In review
+#####**PRADO, J.R.**;PERCEQUILLO, A.R.; PIRANI, R.M.; THOMAZ, A.T. (in review) Biome effect on phenotypic and genomic differences in the South America marsh rats. _Biological Journal of the Linnean Society_. 
 #####
 #####DALAPICOLLA, J.; **PRADO, J.R.**; PERCEQUILLO. A.R.; KNOWLES L.L. (in review) Amazonian forest-types and functional connectivity of its inhabitants: connectivity in sympatric spiny rat species reflects more than the single dimension of forest associations. _Journal of Biogeography_.
 #####
@@ -17,14 +18,12 @@
 #####**PRADO, J.R.**; RUBI, T.; BAUMGARTNER, J.; HOFFMAN S.M.; DANTZER. B.; KNOWLES, L.L. (in review) Postglacial colonization in the Great Lakes Region by the white-footed mouse (_Peromyscus leucopus_): conflicts between genomic and field data. _Journal of Mammalogy_.
 #####
 #####**PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (in review) A new species of South America marsh rat (_Holochilus_, Cricetidae) from northeastern Brazil. _Journal of Mammalogy_.
-#####
-#####DALAPICOLLA, J.; ABREU-JÚNIOR, E. F.; **PRADO, J.R.**; CHIQUITO, E.A.; ROTH, P.R.O.; BRENNAND, P.G.G; PAVAN, A.C.; PEREIRA, A.; MENDES, F.; ALVAREZ, M.; RIOS, E.; CASSANO, C.; MIRETZKI, M.; VÉLEZ, F.; SEVÁ, A.; PERCEQUILLO, A. R.; BOVENDORP, R.S. (in review) Areas of endemism of small mammals are underprotected in the Atlantic Forest. _Journal of Mammalogy_.
-#####
 
 
-###Published
+###Published/Accepted
+#####15. DALAPICOLLA, J.; ABREU-JÚNIOR, E. F.; **PRADO, J.R.**; CHIQUITO, E.A.; ROTH, P.R.O.; BRENNAND, P.G.G; PAVAN, A.C.; PEREIRA, A.; MENDES, F.; ALVAREZ, M.; RIOS, E.; CASSANO, C.; MIRETZKI, M.; VÉLEZ, F.; SEVÁ, A.; PERCEQUILLO, A. R.; BOVENDORP, R.S. Areas of endemism of small mammals are underprotected in the Atlantic Forest. _Journal of Mammalogy_.
 #####
-#####14. PERCEQUILLO, A.R.; **PRADO, J.R.**; ABREU-JÚNIOR, E. F.; DALAPICOLLA, J.; PAVAN, A.C.; CHIQUITO, E.A.; STEPPAN, S.J.; LEMMON, A.R.; LEMMON, E.M.; WILKINSON, M. Tempo and mode of evolution of Oryzomyine rodents (Rodentia, Cricetidae, Sigmodontinae): a phylogenomic approach. _Molecular Phylogenetics and Evolution_, v. 159, p. 107120.
+#####14. PERCEQUILLO, A.R.; **PRADO, J.R.**; ABREU-JÚNIOR, E. F.; DALAPICOLLA, J.; PAVAN, A.C.; CHIQUITO, E.A.; STEPPAN, S.J.; LEMMON, A.R.; LEMMON, E.M.; WILKINSON, M. (2021) Tempo and mode of evolution of Oryzomyine rodents (Rodentia, Cricetidae, Sigmodontinae): a phylogenomic approach. _Molecular Phylogenetics and Evolution_, v. 159, p. 107120.
 #####
 #####13. **PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (2021) New species boundaries and diversification history of marsh rat taxa clarify historical connections among ecologically and geographically distinct wetlands of South America. _Molecular Phylogenetics and Evolution_, v. 155, 106992.
 #####
@@ -36,7 +35,7 @@
 #####
 #####9. **PRADO, J.R.**; MENDONCA, G.C.; CHIQUITO, E.A. 2019. Topics in Oryzomyini rodents (Cricetidae, Sigmodontinae): natural history, diversity and the contribution of Brazilian researchers. _Boletim da Sociedade Brasileira de Mastozoologia_, v. esp, p. 74-85.
 #####
-#####8. **PRADO, J.R.**, PERCEQUILLO, A.R., THOMAZ, A. T., KNOWLES, L.L. (2019) Species’ similar life history traits versus biome specific associations as determinants of genetic structure: quantitative comparison of three South American marsh rat species (Rodentia: Holochilus). _Journal of Biogeography_, v. 46(4), p. 770-783. 
+#####8. **PRADO, J.R.**, PERCEQUILLO, A.R., THOMAZ, A.T., KNOWLES, L.L. (2019) Species’ similar life history traits versus biome specific associations as determinants of genetic structure: quantitative comparison of three South American marsh rat species (Rodentia: Holochilus). _Journal of Biogeography_, v. 46(4), p. 770-783. 
 #####
 #####7. RESENDE-MOREIRA, L.C., KNOWLES, L.L., THOMAZ, A.T., **PRADO, J.R.**, SOUTO, A.P., LEMOS-FILHO, J.P., LOVATO, M.B. (2019) Evolving in isolation: genetic tests reject recent connections of Amazonian savannas with the central Cerrado. _Journal of Biogeography_, v. 46(1), p. 196-211. 
 #####

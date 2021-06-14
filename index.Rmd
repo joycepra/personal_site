@@ -7,10 +7,10 @@
 <img src="files/EU.jpeg" style="width:30%; border:5px solid; margin-right: 20px" align="left">
 
 
-<font size="3"><div style="text-align: justify"> I'm amazed with processes that generate diversity and speciation. 
-My research line is focused on integrating ecological, morphological and genetic data to study the evolutionary history of Neotropical mammals.
-I am current studying how the ecological restrictions imposed by different environments in South America structure the genetic variation and demographic 
-history in taxa with shared life history traits.</div></font>
+<font size="3"><div style="text-align: justify"> I'm amazed at processes that generate diversity and speciation. 
+My research line is focused on integrating ecological, morphological, and genetic data to study the evolutionary history of Neotropical mammals.
+I am currently studying how the ecological restrictions imposed by different environments in South America structure the genetic variation and demographic 
+history in taxa with shared life-history traits.</div></font>
 
 
 <font size="3"><div style="text-align: justify">I'm a postdoctoral fellow at Universidade de São Paulo (USP), where I also did my PhD (2017) and my Msc (2012), advised by Alexandre Percequillo.
