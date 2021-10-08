@@ -64,7 +64,7 @@
 
 <font size="5">Evolutionary Ecology</font> 
 
-<font size="4"><div style="text-align: center">**Phenotypic and genomic differences between biomes of the South America marsh rat, _Holochilus brasiliensis_ (Prado et al., accepted)**</div></font> 
+<font size="4"><div style="text-align: center">**Phenotypic and genomic differences between biomes of the South America marsh rat, _Holochilus brasiliensis_ [Prado et al., accepted](https://doi.org/10.1093/biolinnean/blab132)**</div></font> 
 
 <br>
 
