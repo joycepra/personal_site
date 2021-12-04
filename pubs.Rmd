@@ -2,25 +2,31 @@
 
 ##Publications
 
-##### You can also find me on [Research Gate](https://www.researchgate.net/profile/Joyce_Prado).
+##### You can also find me on [Research Gate](https://www.researchgate.net/profile/Joyce_Prado)
+##### My Github is (https://github.com/joycepra)
 ##### My ORCID ID is 0000-0002-2025-5479 (https://orcid.org/0000-0002-2025-5479)
-##### My full CV is available [here](files/CV_JRP.pdf).
+##### My full CV is available [here](files/CV_JRP.pdf)
 #####
 
 
 ###In review
-#####DALAPICOLLA, J.; **PRADO, J.R.**; PERCEQUILLO. A.R.; KNOWLES L.L. (in review) Amazonian forest-types and functional connectivity of its inhabitants: connectivity in sympatric spiny rat species reflects more than the single dimension of forest associations. _Journal of Biogeography_.
+
+##### ROCHA, R.G.; LOSS, A.; **PRADO, J.R.**; REIS, R.; DUDA, R.; COSTA, L. (in review) Phylogeography of the poorly known Neotropical sciurid Guerlinguetus brasiliensis (Rodentia: Sciuridae). _Biological Journal of the Linnean Society_.
 #####
 #####**PRADO, J.R.**; ROCHA, R.G.; BISSOLI-SILVA, H.; MENDES-OLIVEIRA, A.C.; PONTES R.C.L.; MAUÉS, P.C.R.A.; COSTA, L. P. (in review) Is the Tapajós region, in fact, the ugly duckling in conservation priorities among other areas of endemism in the Amazon? _Biodiversity and Conservation_.
 #####
-#####**PRADO, J.R.**; RUBI, T.; BAUMGARTNER, J.; HOFFMAN S.M.; DANTZER. B.; KNOWLES, L.L. (in review) Postglacial colonization in the Great Lakes Region by the white-footed mouse (_Peromyscus leucopus_): conflicts between genomic and field data. _Journal of Mammalogy_.
 
 ###Published/Accepted
-#####17. **PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (accepted) A new species of South America marsh rat (_Holochilus_, Cricetidae) from northeastern Brazil. _Journal of Mammalogy_.
+
+#####19. **PRADO, J.R.**; RUBI, T.; BAUMGARTNER, J.; HOFFMAN S.M.; DANTZER. B.; KNOWLES, L.L. (accepted) Postglacial colonization in the Great Lakes Region by the white-footed mouse (_Peromyscus leucopus_): conflicts between genomic and field data. _Journal of Mammalogy_.
 #####
-#####16. **PRADO, J.R.**;PERCEQUILLO, A.R.; PIRANI, R.M.; THOMAZ, A.T. (accepted) Phenotypic and genomic differences between biomes of the South America marsh rat, _Holochilus brasiliensis_. _Biological Journal of the Linnean Society_. 
+#####18. DALAPICOLLA, J.; **PRADO, J.R.**; PERCEQUILLO. A.R.; KNOWLES L.L. Amazonian forest-types and functional connectivity of its inhabitants: connectivity in sympatric spiny rat species reflects more than the single dimension of forest associations. _Journal of Biogeography_, v. 48, p. 3196-3209.
 #####
-#####15. DALAPICOLLA, J.; ABREU-JÚNIOR, E. F.; **PRADO, J.R.**; CHIQUITO, E.A.; ROTH, P.R.O.; BRENNAND, P.G.G; PAVAN, A.C.; PEREIRA, A.; MENDES, F.; ALVAREZ, M.; RIOS, E.; CASSANO, C.; MIRETZKI, M.; VÉLEZ, F.; SEVÁ, A.; PERCEQUILLO, A. R.; BOVENDORP, R.S. (accepted) Areas of endemism of small mammals are underprotected in the Atlantic Forest. _Journal of Mammalogy_.
+#####17. **PRADO, J.R.**; KNOWLES, L.L.; PERCEQUILLO, A.R. (online) A new species of South America marsh rat (_Holochilus_, Cricetidae) from northeastern Brazil. _Journal of Mammalogy_.
+#####
+#####16. **PRADO, J.R.**;PERCEQUILLO, A.R.; PIRANI, R.M.; THOMAZ, A.T. (online) Phenotypic and genomic differences between biomes of the South America marsh rat, _Holochilus brasiliensis_. _Biological Journal of the Linnean Society_.
+#####
+#####15. DALAPICOLLA, J.; ABREU-JÚNIOR, E. F.; **PRADO, J.R.**; CHIQUITO, E.A.; ROTH, P.R.O.; BRENNAND, P.G.G; PAVAN, A.C.; PEREIRA, A.; MENDES, F.; ALVAREZ, M.; RIOS, E.; CASSANO, C.; MIRETZKI, M.; VÉLEZ, F.; SEVÁ, A.; PERCEQUILLO, A. R.; BOVENDORP, R.S. Areas of endemism of small mammals are underprotected in the Atlantic Forest. _Journal of Mammalogy_, v. 102, 1390–1404.
 #####
 #####14. PERCEQUILLO, A.R.; **PRADO, J.R.**; ABREU-JÚNIOR, E. F.; DALAPICOLLA, J.; PAVAN, A.C.; CHIQUITO, E.A.; STEPPAN, S.J.; LEMMON, A.R.; LEMMON, E.M.; WILKINSON, M. (2021) Tempo and mode of evolution of Oryzomyine rodents (Rodentia, Cricetidae, Sigmodontinae): a phylogenomic approach. _Molecular Phylogenetics and Evolution_, v. 159, p. 107120.
 #####
@@ -34,9 +40,9 @@
 #####
 #####9. **PRADO, J.R.**; MENDONCA, G.C.; CHIQUITO, E.A. 2019. Topics in Oryzomyini rodents (Cricetidae, Sigmodontinae): natural history, diversity and the contribution of Brazilian researchers. _Boletim da Sociedade Brasileira de Mastozoologia_, v. esp, p. 74-85.
 #####
-#####8. **PRADO, J.R.**, PERCEQUILLO, A.R., THOMAZ, A.T., KNOWLES, L.L. (2019) Species’ similar life history traits versus biome specific associations as determinants of genetic structure: quantitative comparison of three South American marsh rat species (Rodentia: Holochilus). _Journal of Biogeography_, v. 46(4), p. 770-783. 
+#####8. **PRADO, J.R.**, PERCEQUILLO, A.R., THOMAZ, A.T., KNOWLES, L.L. (2019) Species’ similar life history traits versus biome specific associations as determinants of genetic structure: quantitative comparison of three South American marsh rat species (Rodentia: Holochilus). _Journal of Biogeography_, v. 46(4), p. 770-783.
 #####
-#####7. RESENDE-MOREIRA, L.C., KNOWLES, L.L., THOMAZ, A.T., **PRADO, J.R.**, SOUTO, A.P., LEMOS-FILHO, J.P., LOVATO, M.B. (2019) Evolving in isolation: genetic tests reject recent connections of Amazonian savannas with the central Cerrado. _Journal of Biogeography_, v. 46(1), p. 196-211. 
+#####7. RESENDE-MOREIRA, L.C., KNOWLES, L.L., THOMAZ, A.T., **PRADO, J.R.**, SOUTO, A.P., LEMOS-FILHO, J.P., LOVATO, M.B. (2019) Evolving in isolation: genetic tests reject recent connections of Amazonian savannas with the central Cerrado. _Journal of Biogeography_, v. 46(1), p. 196-211.
 #####
 #####6. **PRADO, J.R.**; PERCEQUILLO, A. R. 2018. Systematic studies of the genus _Aegialomys_ Weksler, et al. 2006 (Rodentia: Cricetidae: Sigmodontinae): geographic variation, species delimitation, and biogeography. _Journal of Mammalian Evolution_, v. 25, p. 71–118.
 #####
@@ -51,7 +57,7 @@
 #####1. **PRADO, J.R.**; PERCEQUILLO, A.R. 2011. Ontogenetic and sexual variation in cranial characters of _Aegialomys Xanthaeolus_ (Thomas, 1894)(Cricetidae: Sigmodontinae) from Ecuador and Peru. _Papéis Avulsos de Zoologia_, v. 51, p. 155-177.
 
 
-###Book and Book Chapter 
+###Book and Book Chapter
 #####
 #####5. FRAGA, C.N.; Peixoto, A.L.; Leite, Y.L.R; **PRADO, J.R.**; et al. Lista da fauna e flora ameaçadas de extinção no estado do Espírito Santo. In: Claudio Nicoletti de Fraga; Mileide de Holanda Formigoni; Flávia Guimarães Chaves. (Org.). Fauna e flora ameaçadas de extinção no estado do Espírito Santo. 1ed., 2019, p. 1-432.
 #####
