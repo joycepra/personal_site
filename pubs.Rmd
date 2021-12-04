@@ -13,7 +13,6 @@
 
 ##### ROCHA, R.G.; LOSS, A.; **PRADO, J.R.**; REIS, R.; DUDA, R.; COSTA, L. (in review) Phylogeography of the poorly known Neotropical sciurid Guerlinguetus brasiliensis (Rodentia: Sciuridae). _Biological Journal of the Linnean Society_.
 #####
-
 ##### **PRADO, J.R.**; ROCHA, R.G.; BISSOLI-SILVA, H.; MENDES-OLIVEIRA, A.C.; PONTES R.C.L.; MAUÉS, P.C.R.A.; COSTA, L. P. (in review) Is the Tapajós region, in fact, the ugly duckling in conservation priorities among other areas of endemism in the Amazon? _Biodiversity and Conservation_.
 #####
 
@@ -35,7 +34,7 @@
 #####
 ##### 12. TETA, P.; D´ELIA, G.; JAYAT, J.P.; GONCALVES, P.R.; LIBARDI, G.S.; OLIVEIRA, J.A.; MORATELLI, R.; PERCEQUILLO, A.R.; **PRADO, J.R.**; ORTIZ, P.E.; HURTADO, N.; SCHIAFFINI, M.I.; Abreu, E.F.J; CHIQUITO, E.A.; GIMENEZ, A.L.; TORRES, J.C. On the distinction and availability of the new taxa proposed by Agnolin et al. 2019. _Mastozoología Neotropical_, 27, p. 1-17.
 #####
-#####11. PIRANI, R.M.; PELOSO, P.L.V.; **PRADO, J.R.**; POLO, E; KNOWLES, L.L.; RON, S.R.; RODRIGUES, M.T.; STURARO, M.J.; WERNECK, F.P. 2020. Diversification History of Clown Tree Frogs in Neotropical Rainforests (Anura, Hylidae, _Dendropsophus leucophyllatus_ group). _Molecular Phylogenetics and Evolution_, v. 150, p. 106877.
+##### 11. PIRANI, R.M.; PELOSO, P.L.V.; **PRADO, J.R.**; POLO, E; KNOWLES, L.L.; RON, S.R.; RODRIGUES, M.T.; STURARO, M.J.; WERNECK, F.P. 2020. Diversification History of Clown Tree Frogs in Neotropical Rainforests (Anura, Hylidae, _Dendropsophus leucophyllatus_ group). _Molecular Phylogenetics and Evolution_, v. 150, p. 106877.
 #####
 ##### 10. **PRADO, J.R.**; PERCEQUILLO, A.R. 2019. _Aegialomys galapagoensis_ (Rodentia: Cricetidae). _Mammalian Species_, v. 51, p. 92-99.
 #####
